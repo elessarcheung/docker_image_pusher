@@ -1,6 +1,7 @@
 #支持私库
 xhofe/alist:latest
 whyour/qinglong:latest
+p3terx/aria2-pro:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 whyour/qinglong:latest
