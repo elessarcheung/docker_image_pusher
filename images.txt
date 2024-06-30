@@ -2,7 +2,9 @@
 xhofe/alist:latest
 whyour/qinglong:latest
 p3terx/aria2-pro:latest
+p3terx/ariang:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 whyour/qinglong:latest
 --platform=linux/arm64 p3terx/aria2-pro:latest
+--platform=linux/arm64 p3terx/ariang:latest
