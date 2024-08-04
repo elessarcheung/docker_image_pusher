@@ -3,8 +3,10 @@ xhofe/alist:latest
 whyour/qinglong:latest
 p3terx/aria2-pro:latest
 p3terx/ariang:latest
+nevinee/qbittorrent:latest
 #支持指定架构
 --platform=linux/arm64 xhofe/alist
 --platform=linux/arm64 whyour/qinglong:latest
 --platform=linux/arm64 p3terx/aria2-pro:latest
 --platform=linux/arm64 p3terx/ariang:latest
+--platform=linux/arm64 nevinee/qbittorrent:latest
